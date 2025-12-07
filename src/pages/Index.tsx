@@ -137,7 +137,7 @@ const Index = () => {
                     
                     <Button size="sm" asChild>
                       <a 
-                        href={`https://yandex.ru/maps/?ll=${store.coordinates[1]},${store.coordinates[0]}&z=16&pt=${store.coordinates[1]},${store.coordinates[0]},pm2rdm`}
+                        href={`https://yandex.ru/maps/?rtext=~${store.coordinates[0]},${store.coordinates[1]}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         onClick={(e) => e.stopPropagation()}
