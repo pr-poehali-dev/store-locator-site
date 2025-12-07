@@ -21,7 +21,7 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.7186, 44.5015]
+    coordinates: [48.756580, 44.477952]
   },
   {
     id: 2,
@@ -30,7 +30,7 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.7168, 44.4987]
+    coordinates: [48.768618, 44.474557]
   },
   {
     id: 3,
@@ -39,7 +39,7 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.7078, 44.5161]
+    coordinates: [48.768207, 44.489374]
   },
   {
     id: 4,
@@ -48,16 +48,16 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.4727, 44.5388]
+    coordinates: [48.769126, 44.477658]
   },
   {
     id: 5,
     name: 'Sweet Smoke',
-    address: 'ул. Краснополянская, 26',
+    address: 'ул. Краснополянская, 12',
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.4692, 44.5410]
+    coordinates: [48.761121, 44.479200]
   },
   {
     id: 6,
@@ -66,7 +66,7 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.7302, 44.4850]
+    coordinates: [48.735247, 44.489612]
   },
   {
     id: 7,
@@ -75,7 +75,7 @@ const stores: Store[] = [
     city: 'Волжский',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.7886, 44.7643]
+    coordinates: [48.776219, 44.773794]
   }
 ];
 
