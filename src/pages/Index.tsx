@@ -67,6 +67,69 @@ const stores: Store[] = [
     phone: '+7 (953) 198-40-06',
     hours: '10:00 - 22:00',
     coordinates: [54.5066, 37.0590]
+  },
+  {
+    id: 7,
+    name: 'Sweet Smoke',
+    address: 'ул. Историческая, 175',
+    city: 'Волгоград',
+    phone: '+7 (953) 198-40-06',
+    hours: '9:00 - 21:00',
+    coordinates: [48.7194, 44.5018]
+  },
+  {
+    id: 8,
+    name: 'Sweet Smoke',
+    address: 'ул. Историческая, 154',
+    city: 'Волгоград',
+    phone: '+7 (953) 198-40-06',
+    hours: '9:00 - 21:00',
+    coordinates: [48.7175, 44.4995]
+  },
+  {
+    id: 9,
+    name: 'Sweet Smoke',
+    address: 'ул. Савкина, 2',
+    city: 'Волгоград',
+    phone: '+7 (953) 198-40-06',
+    hours: '9:00 - 21:00',
+    coordinates: [48.7083, 44.5167]
+  },
+  {
+    id: 10,
+    name: 'Sweet Smoke',
+    address: 'ул. Краснополянская, 5а',
+    city: 'Волгоград',
+    phone: '+7 (953) 198-40-06',
+    hours: '9:00 - 21:00',
+    coordinates: [48.4733, 44.5394]
+  },
+  {
+    id: 11,
+    name: 'Sweet Smoke',
+    address: 'ул. Краснополянская, 26',
+    city: 'Волгоград',
+    phone: '+7 (953) 198-40-06',
+    hours: '9:00 - 21:00',
+    coordinates: [48.4697, 44.5417]
+  },
+  {
+    id: 12,
+    name: 'Sweet Smoke',
+    address: 'ул. Рионская, 4б',
+    city: 'Волгоград',
+    phone: '+7 (953) 198-40-06',
+    hours: '9:00 - 21:00',
+    coordinates: [48.7308, 44.4856]
+  },
+  {
+    id: 13,
+    name: 'Sweet Smoke',
+    address: 'ул. Профсоюзов, 1б',
+    city: 'Волжский',
+    phone: '+7 (953) 198-40-06',
+    hours: '9:00 - 21:00',
+    coordinates: [48.7892, 44.7650]
   }
 ];
 
