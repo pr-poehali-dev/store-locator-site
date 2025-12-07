@@ -21,7 +21,7 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.7194, 44.5018]
+    coordinates: [48.7186, 44.5015]
   },
   {
     id: 2,
@@ -30,7 +30,7 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.7175, 44.4995]
+    coordinates: [48.7168, 44.4987]
   },
   {
     id: 3,
@@ -39,7 +39,7 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.7083, 44.5167]
+    coordinates: [48.7078, 44.5161]
   },
   {
     id: 4,
@@ -48,7 +48,7 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.4733, 44.5394]
+    coordinates: [48.4727, 44.5388]
   },
   {
     id: 5,
@@ -57,7 +57,7 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.4697, 44.5417]
+    coordinates: [48.4692, 44.5410]
   },
   {
     id: 6,
@@ -66,7 +66,7 @@ const stores: Store[] = [
     city: 'Волгоград',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.7308, 44.4856]
+    coordinates: [48.7302, 44.4850]
   },
   {
     id: 7,
@@ -75,7 +75,7 @@ const stores: Store[] = [
     city: 'Волжский',
     phone: '+7 (953) 198-40-06',
     hours: '9:00 - 21:00',
-    coordinates: [48.7892, 44.7650]
+    coordinates: [48.7886, 44.7643]
   }
 ];
 
